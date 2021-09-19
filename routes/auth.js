@@ -46,4 +46,5 @@ router.post(
 // de prolongar la duracion
 router.get("/renew", validarJWT, revalidarToken);
 //exportamos nuestro router
+///sasadada-----
 module.exports = router;
